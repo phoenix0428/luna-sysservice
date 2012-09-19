@@ -1,7 +1,7 @@
 BUILD_TYPE := debug
 PLATFORM   := x86
 MACHINE := x86
-LUNA_STAGING := $(HOME)/luna-desktop-binaries/staging
+#LUNA_STAGING := $(HOME)/luna-desktop-binaries/staging
 
 NOVA_TOP_DIR_REL = ../
 NOVA_TOP_DIR_ABS = $(shell cd $(NOVA_TOP_DIR_REL); pwd)
